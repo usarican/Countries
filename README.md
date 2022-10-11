@@ -7,9 +7,7 @@ Countries Application shows you countries in the world. You can get some details
 * [MVVM Architecture](https://developer.android.com/jetpack/guide) - Modern, maintainable, and Google suggested app architecture
 * [Dagger Hilt](https://dagger.dev/hilt/) - Easy implementation and less boilerplate code than Dagger2
 * [Coroutine](https://developer.android.com/kotlin/coroutines) & [Flow](https://developer.android.com/kotlin/flow) - Coroutines & Flow used on Android to simplify async code.
-* [Retrofit](https://square.github.io/retrofit/) - The library provides a powerful framework for authenticating and interacting with APIs 
-* [OkHttp](https://square.github.io/okhttp/)
-* [GSon](https://github.com/square/moshi)
+* [Retrofit](https://square.github.io/retrofit/) &  [OkHttp](https://square.github.io/okhttp/) & [GSon](https://github.com/square/moshi) - The library provides a powerful framework for authenticating and interacting with APIs 
 * [Jetpack Components](https://developer.android.com/jetpack)
   * [Room](https://developer.android.com/training/data-storage/room) - Local Database for saving countries
   * [Navigation Component](https://developer.android.com/guide/navigation) - Easiest way to navigate fragments
