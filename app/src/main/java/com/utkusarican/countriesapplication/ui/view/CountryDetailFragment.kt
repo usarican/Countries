@@ -60,7 +60,6 @@ class CountryDetailFragment : Fragment() {
     private fun viewModelSetup(){
         countryDetailViewModel.getCountryInformation().observe(viewLifecycleOwner) { countryDetails ->
             countryDetails?.let {
-                println(countryDetails)
                 setUp(countryDetails)
                 getLoadingInformatin()
                 getWebViewImage(countryDetails.image)
