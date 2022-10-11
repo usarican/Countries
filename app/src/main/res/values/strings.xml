@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Countries Application</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="favorite">Saved</string>
+    <string name="app_title">Countries</string>
+</resources>
